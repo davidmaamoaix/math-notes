@@ -1,4 +1,4 @@
-#align(center, text(17pt)[Homotopy Type Theory Lecture Notes])
+#align(center, text(17pt)[Topology Lecture Notes])
 #grid(
   columns: (1fr, 0fr),
   align(center)[
